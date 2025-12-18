@@ -16,7 +16,7 @@ Unlike conventional biomass studies that rely on a single sensor or black-box mo
 ---
 
 ## 🌍 Study Scope
-<img width="30%" alt="Study Area" src="Layout2.jpg" />   
+<img width="40%" alt="Study Area" src="Layout2.jpg" />   
 
 - **Study area:** Rocky Mountains (Montana & Idaho, USA)
 - **Forest type:** Temperate coniferous forests
@@ -27,7 +27,7 @@ Unlike conventional biomass studies that rely on a single sensor or black-box mo
 ---
 
 ## ⚙️ Methodological Workflow
-<img width="40%" alt="AGB Framework" src="UNETFlowchart.png" />
+<img width="50%" alt="AGB Framework" src="UNETFlowchart.png" />
 
 The modeling pipeline consists of three tightly coupled components:
 
