@@ -148,5 +148,9 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 - Reproducible and transferable framework for forest monitoring
 ---
 
-## 👉 Data Accessibility: https://zenodo.org/records/17076354?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZhZmQxMjBmLWNhNTAtNDljOC04MjE4LWY1YzJmMzIxODI4NiIsImRhdGEiOnt9LCJyYW5kb20iOiI4ZGQyYjA1Y2FlNjliYzU5OTQzYjFlOTM3MTI4NDE0MSJ9.RqUNUl4Ttzfc_c3VHiNt7kFwWhc6RESDc3EkKl8dBACvj9dK_Gu0Hz0xwY6IPdL9tVVa66aq3Jhe6cq_pW6QkQ
+## 📦 Data Availability
+
+All datasets used in this study are publicly available on Zenodo:
+
+🔗 https://doi.org/10.5281/zenodo.17076354
 
