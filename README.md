@@ -131,7 +131,7 @@ If you use this repository or its methodology, please cite:
 Faculty of Civil Engineering and Transportation  
 University of Isfahan, Iran  
 
-📧 Corresponding author: Dr. Hossein Bagheri h.bagheri@cet.ui.ac.ir
+Corresponding author: Dr. Hossein Bagheri h.bagheri@cet.ui.ac.ir
 Faculty of Civil Engineering and Transportation  
 University of Isfahan, Iran  
 ---
