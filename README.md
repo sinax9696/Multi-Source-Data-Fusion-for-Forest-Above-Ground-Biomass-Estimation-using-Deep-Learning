@@ -127,12 +127,13 @@ If you use this repository or its methodology, please cite:
 ---
 
 ## 📬 Contact
-**Author:** Sina Irannejad: sinax9696@gmail.com    
+**Author:** Sina Irannejad  sinax9696@gmail.com    
 Faculty of Civil Engineering and Transportation  
 University of Isfahan, Iran  
 
-📧 Corresponding author: h.bagheri@cet.ui.ac.ir
-
+📧 Corresponding author: Dr. Hossein Bagheri h.bagheri@cet.ui.ac.ir
+Faculty of Civil Engineering and Transportation  
+University of Isfahan, Iran  
 ---
 
 ## 🪴 License
